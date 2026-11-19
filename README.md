@@ -1,5 +1,7 @@
 # k-move games
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24370916.svg)](https://doi.org/10.5281/zenodo.24370916)
+
 Code accompanying the paper
 
 > M. Mirzavaziri and D. Yaqubi, *Games with k moves per turn: local freedom and global rigidity*.

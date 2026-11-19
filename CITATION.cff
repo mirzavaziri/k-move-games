@@ -9,6 +9,7 @@ authors:
     given-names: Daniel
     affiliation: "University of Torbat-e Jam"
 version: 1.0.0
+doi: 10.5281/zenodo.24370916
 license: MIT
 repository-code: "https://github.com/mirzavaziri/k-move-games"
 keywords:
