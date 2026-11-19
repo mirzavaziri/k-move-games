@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "k-move games: code for 'Games with k moves per turn: local freedom and global rigidity'"
+authors:
+  - family-names: Mirzavaziri
+    given-names: Madjid
+    affiliation: "Ferdowsi University of Mashhad"
+  - family-names: Yaqubi
+    given-names: Daniel
+    affiliation: "University of Torbat-e Jam"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/mirzavaziri/k-move-games"
+keywords:
+  - combinatorial games
+  - Nim
+  - kernels of digraphs
